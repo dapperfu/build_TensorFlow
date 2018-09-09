@@ -1,0 +1,9 @@
+bazel
+bazel-*
+bin/
+lib/
+lib64
+pyvenv.cfg
+share/
+tensorflow/
+
